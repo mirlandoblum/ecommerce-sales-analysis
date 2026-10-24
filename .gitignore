@@ -1,0 +1,11 @@
+# Local system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Never commit raw commercial exports or customer records
+*invoice*.csv
+raw_data/
+private/
