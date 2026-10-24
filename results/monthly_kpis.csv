@@ -1,0 +1,5 @@
+month,all_orders,completed_orders,canceled_orders,open_orders,completed_sales_usd,cancellation_rate_pct
+2026-07,169,161,8,0,2820.59,4.73
+2026-08,91,86,5,0,1656.14,5.49
+2026-09,115,109,6,0,1980.91,5.22
+2026-10,88,57,10,21,1176.43,11.36
